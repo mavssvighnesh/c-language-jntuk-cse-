@@ -9,7 +9,7 @@ int main()
      float twt=0.0,att,awt,tat= 0.0;
 
      printf("Enter the number of processes : ");
-    scanf("%d",&n);
+        scanf("%d",&n);
 
     printf("Enter process id of all the processes: ");
     for(int i=0;i<n;i++)
