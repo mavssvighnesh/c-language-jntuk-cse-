@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,r,i,j,k,p,u=0,s=0,m;
+    int n, r,i,j,k,p,u=0,s=0,m;
     int block[10],run[10],active[10],newreq[10];
     int max[10][10],resalloc[10][10],resreq[10][10];
     int totalloc[10],totext[10],simalloc[10];
